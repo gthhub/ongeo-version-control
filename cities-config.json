@@ -23,7 +23,7 @@
       "state": "CA",
       "latitude": 37.7749,
       "longitude": -122.4194,
-      "isLive": false
+      "isLive": true
     },
     {
       "id": "boston",
@@ -47,7 +47,7 @@
       "state": "PA",
       "latitude": 40.4406,
       "longitude": -79.9959,
-      "isLive": false
+      "isLive": true
     },
     {
       "id": "philadelphia",
