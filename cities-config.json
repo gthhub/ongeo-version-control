@@ -1,0 +1,85 @@
+{
+  "lastUpdated": "2026-01-04",
+  "cities": [
+    {
+      "id": "nyc",
+      "name": "New York",
+      "state": "NY",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "isLive": true
+    },
+    {
+      "id": "seattle",
+      "name": "Seattle",
+      "state": "WA",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "isLive": false
+    },
+    {
+      "id": "sf",
+      "name": "San Francisco",
+      "state": "CA",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "isLive": false
+    },
+    {
+      "id": "boston",
+      "name": "Boston",
+      "state": "MA",
+      "latitude": 42.3601,
+      "longitude": -71.0589,
+      "isLive": false
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago",
+      "state": "IL",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "isLive": false
+    },
+    {
+      "id": "pittsburgh",
+      "name": "Pittsburgh",
+      "state": "PA",
+      "latitude": 40.4406,
+      "longitude": -79.9959,
+      "isLive": false
+    },
+    {
+      "id": "philadelphia",
+      "name": "Philadelphia",
+      "state": "PA",
+      "latitude": 39.9526,
+      "longitude": -75.1652,
+      "isLive": false
+    },
+    {
+      "id": "austin",
+      "name": "Austin",
+      "state": "TX",
+      "latitude": 30.2672,
+      "longitude": -97.7431,
+      "isLive": false
+    },
+    {
+      "id": "portland",
+      "name": "Portland",
+      "state": "OR",
+      "latitude": 45.5152,
+      "longitude": -122.6784,
+      "isLive": false
+    },
+    {
+      "id": "denver",
+      "name": "Denver",
+      "state": "CO",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "isLive": false
+    }
+  ]
+}
