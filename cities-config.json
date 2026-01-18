@@ -88,6 +88,14 @@
       "latitude": 34.0549,
       "longitude": -118.2426,
       "isLive": false  
+    },
+    {
+      "id": "hoboken",
+      "name": "Hoboken",
+      "state": "NJ",
+      "latitude": 40.7439,
+      "longitude": -74.0324,
+      "isLive": false
     }
   ]
 }
