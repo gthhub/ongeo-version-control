@@ -1,6 +1,6 @@
 {
   "minimumVersion": "1.17",
   "forceUpdate": true,
-  "updateMessage": "Oops! Recent iOS updates introduced a bug...be right back! RELEASING AN UPDATE VERY SOON. In the meantime, you can use the web version at ongeo.app/preview in your browser!",
+  "updateMessage": "A newer version of Ongeo is needed...please update in the App Store!",
   "appStoreURL": "https://apps.apple.com/us/app/ongeo/id6755797984"
 }
